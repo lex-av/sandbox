@@ -16,7 +16,6 @@ repos:
     hooks:
       - id: isort
         name: isort (python)
-    args: ["--profile", "black"]
 
 -   repo: https://github.com/ambv/black
     rev: 21.12b0
